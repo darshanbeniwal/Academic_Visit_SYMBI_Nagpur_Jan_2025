@@ -13,4 +13,4 @@ This repository contains materials related to my **academic visit** to **Symbios
 - Open Google Colab in Google Chrome
 - Create New Notebook
 - And connect to the server
-- Click on the link: https://github.com/darshanbeniwal/Exploring_Astro_Data_w_Py_GLA_IUCAA_2023/blob/main/1_handson_session_mock_data.md
+- Click on the link: https://github.com/darshanbeniwal/Academic_Visit_SYMBI_Nagpur_Jan_2025/blob/main/Hands_on_Session_1.md
